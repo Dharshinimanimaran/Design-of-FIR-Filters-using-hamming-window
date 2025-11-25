@@ -1,6 +1,4 @@
-# Design-of-FIR-Filters-using-hamming-window
-
-# DESIGN OF LOW PASS FIR DIGITAL FILTER 
+#EXP 4B- DESIGN OF LOW PASS FIR DIGITAL FILTER 
 
 # AIM: 
           
