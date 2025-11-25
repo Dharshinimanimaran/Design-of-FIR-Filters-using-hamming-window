@@ -1,5 +1,7 @@
 # EXP 4B-DESIGN OF LOW PASS FIR DIGITAL FILTER 
 
+# Dharshini M(212222060025)
+
 # AIM: 
           
   To generate design of high pass FIR digital filter using SCILAB 
